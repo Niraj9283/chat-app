@@ -1,0 +1,6 @@
+{
+  "name": "Secure Messenger",
+  "description": "A highly secure messenger featuring default end-to-end local encryption, real-time AES-GCM database ciphertext toggle, key rotations, self-destruct disappearing timers, and secure Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
